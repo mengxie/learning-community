@@ -5,3 +5,4 @@ Eventually we will have fantastic software which makes running the learning comm
 
 1. [Joining](joining.md)
 1. [Leaving](leaving.md)
+1. [Buddying](buddying.md)
