@@ -46,3 +46,6 @@ We encourage people to create a public github repo with their learning plan so t
 We are committed to maintaining [Enspiral's Diversity Policy](https://github.com/enspiral/agreements/blob/master/agreements/diversity.md) and making this community a welcoming space for people from different backgrounds.
 
 Please keep this in mind and help us make programming accessible to anyone who would like to be part of this community.
+
+### Joining
+Membership is open to anybody, if you would like to join please [fill in this form](https://docs.google.com/a/enspiral.com/forms/d/1n8mE-LjrvsDLDDsfSQRkGD4A3kFAQDkykh-ritq0w-A/viewform).
