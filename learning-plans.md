@@ -12,3 +12,4 @@ Public learning plans from some of our members
 * [Nick Johnstone](http://waffle.io/widdershin/learning)
 * [Yosan Legaspi](http://waffle.io/sleepysaurus/learning)
 * [Richard Wood](http://waffle.io/rwoodnz/learning)
+* [Kendall Flutey](https://waffle.io/kendallflutey/learning)
