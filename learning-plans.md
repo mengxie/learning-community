@@ -13,3 +13,4 @@ Public learning plans from some of our members - please keep alphabetical when y
 * [Yosan Legaspi](http://waffle.io/sleepysaurus/learning)
 * [Richard Wood](http://waffle.io/rwoodnz/learning)
 * [Regan Young](https://waffle.io/regan-young/learning)
+* [Michael Douglas] (https://waffle.io/Mikedgs/learning)
