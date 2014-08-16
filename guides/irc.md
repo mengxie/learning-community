@@ -18,6 +18,7 @@ You connect to an IRC network with an IRC client. These clients are usually just
 
 **Web**
 * [IRCCloud](http://irccloud.com/) (Easy to get started, lets you see and receive messages, even when you're not there. Also works across all devices. Hit up @Widdershin if you need an invite)
+* [KiwiIRC](https://kiwiirc.com/client/)
 
 **Mobile**
 * [IRCCloud](https://play.google.com/store/apps/details?id=com.irccloud.android&hl=en)
@@ -25,7 +26,8 @@ You connect to an IRC network with an IRC client. These clients are usually just
 ###Where do I chat?
 
 **irc.freenode.org**
-Freenode is one of the biggest and oldest IRC networks. The popular channels have over a 1000 users. Some of the more trafficked channels include #ubuntu, #python, ##linux, #haskell and #node.js. There will generally be a channel for the programming language you're using, and they tend to be good places to ask for help.
+Freenode is one of the biggest and oldest IRC networks. The popular channels have over a 1000 users. Some of the more trafficked channels include [#ubuntu](https://kiwiirc.com/client/irc.freenode.org/#ubuntu), [#python](https://kiwiirc.com/client/irc.freenode.org/#python),
+[#ruby](https://kiwiirc.com/client/irc.freenode.org/#ruby), [##linux](https://kiwiirc.com/client/irc.freenode.org/##linux), [#haskell](https://kiwiirc.com/client/irc.freenode.org/#haskell) and [#node.js](https://kiwiirc.com/client/irc.freenode.org/#node.js). There will generally be a channel for the programming language you're using, and they tend to be good places to ask for help.
 
 Check out [this Hacker News thread about good IRC channels](https://news.ycombinator.com/item?id=7161236).
 Here's a list of the most popular [IRC networks](http://irc.netsplit.de/networks/top100.php).
