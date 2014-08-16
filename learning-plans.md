@@ -7,6 +7,7 @@ Public learning plans from some of our members - please keep alphabetical when y
 * [Darcy Thomas](http://waffle.io/darcythomas/learning)
 * [Joshua Vial](http://waffle.io/joshuavial/learning) 
 * [Kendall Flutey](https://waffle.io/kendallflutey/learning)
+* [Genevieve Parkes](https://waffle.io/genevievebelle/learning)
 * [Melissa Raharuhi](https://waffle.io/misla/learning)
 * [Mikey Williams](http://waffle.io/ahdinosaur/learning)
 * [Nick Johnstone](http://waffle.io/widdershin/learning)
